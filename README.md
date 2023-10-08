@@ -1,4 +1,7 @@
 # BattleGame
+
+Telegram: @Four4423
+
 При запуске приложения, есть возможность сразу начать игру, либо изучить правила.
 <p align="center">
 <img src="img/battleGameMainMenu.jpg" width="200" height="400" />
