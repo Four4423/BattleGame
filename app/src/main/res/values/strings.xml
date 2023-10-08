@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testovoe2</string>
+    <string name="rules1">1. В игре есть 2 опции: "Атака" и "Лечение"</string>
+    <string name="rules2">2. Выбирая атаку, сначала Вы атакуете монстра, после - он Вас</string>
+    <string name="rules3">3. Выбирая лечение - Вы излечиваете себя на 30% от максимального здоровья</string>
+    <string name="rules4">4. Выбирая лечение, Вы не теряете возможность атаковать в этот ход </string>
+    <string name="rules5">5. Побеждает сильнейший ;)</string>
+
+</resources>
